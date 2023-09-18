@@ -18,7 +18,7 @@
 
 ### p108_3
 
-![web010](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/9f483071-0900-4978-a53b-2b4cc552900c)
+![web019](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/c74fe708-feff-4c4e-bc20-835f19a61807)
 
 ### p108_4_1
 
@@ -26,9 +26,7 @@
 
 ### p108_4_2
 
-사진이 많이 크게 나오긴 했지만 출력이 되는걸 볼 수 있다.
-
-![web012](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/f4fbae2b-90ba-4598-9bd2-9ea7fa62f5f3)
+![web020](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/4292999f-280b-4571-9a27-36e21c16f7cf)
 
 ### p109_5
 
