@@ -2,7 +2,7 @@
 
 마우스를 올리면 사진이 뜨는것을 확인 할 수 있다.
 
-![web001](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/d1d05562-e74d-4ba3-a6b8-f25ebde9a277)
+![web017](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/20c41397-a816-4f93-8d90-97875c922e0d)
 
 ### p61_1
 
@@ -26,4 +26,4 @@
 
 마우스를 올리면 사진이 출력되는 모습을 볼 수 있다.
 
-![web005](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/5ae160c8-68a6-4e74-aeff-bcb22b6aa1aa)
+![web018](https://github.com/tjrbwls/WebProgrammingReview/assets/118953733/cc8c5f07-b0ec-4a56-8442-5e1805f96150)
