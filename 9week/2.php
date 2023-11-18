@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>문제 1번</title>
+	<title>문제 2번</title>
 </head>
 
 <body>
