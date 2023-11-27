@@ -1,0 +1,89 @@
+* { margin: 0px; padding: 0px; } /* 모든 요소의 여백과 패딩을 0으로 설정합니다 */
+body { /* 본문 글꼴 크기를 120%로 설정합니다, 배경색을 #F8F8FF로 설정합니다 */
+        font-size: 120%;
+        background: #F8F8FF;
+}
+.header { /* 헤더 너비를 40%로 설정합니다, 헤더를 상단에 가운데 정렬하고 아래쪽 여백을 제거합니다, 헤더 텍스트 색상을 흰색으로 설정합니다, 헤더 배경색을 #5F9EA0으로 설정합니다, 헤더 텍스트를 가운데 정렬합니다, 헤더 테두리를 1px #B0C4DE로 설정합니다, 헤더 하단 테두리를 없앱니다, 헤더 테두리 모서리를 10px 10px 0px 0px로 설정합니다, 헤더 패딩을 20px로 설정합니다 */
+        width: 40%;
+        margin: 50px auto 0px;
+        color: white;
+        background: #5F9EA0;
+        text-align: center;
+        border: 1px solid #B0C4DE;
+        border-bottom: none;
+        border-radius: 10px 10px 0px 0px;
+        padding: 20px;
+}
+form, .content { /* 폼과 컨텐츠 너비를 40%로 설정합니다, 폼과 컨텐츠를 가운데 정렬합니다, 폼과 컨텐츠 패딩을 20px로 설정합니다, 폼과 컨텐츠 테두리를 1px #B0C4DE로 설정합니다, 폼과 컨텐츠 배경색을 흰색으로 설정합니다, 폼과 컨텐츠 테두리 모서리를 0px 0px 10px 10px로 설정합니다 */
+        width: 40%;
+        margin: 0px auto;
+        padding: 20px;
+        border: 1px solid #B0C4DE;
+        background: white;
+        border-radius: 0px 0px 10px 10px;
+}
+.input-group { /* 입력 그룹 간의 여백을 10px 0px 10px 0px로 설정합니다 */
+        margin: 10px 0px 10px 0px;
+}
+.input-group label { /* 입력 그룹 레이블을 블록 요소로 설정합니다, 입력 그룹 레이블 텍스트를 왼쪽 정렬합니다, 입력 그룹 레이블 여백을 3px로 설정합니다 */
+        display: block;
+        text-align: left;
+        margin: 3px;
+}
+.input-group input { /* 입력 필드 높이를 30px로 설정합니다, 입력 필드 너비를 93%로 설정합니다, 입력 필드 패딩을 5px 10px로 설정합니다, 입력 필드 글꼴 크기를 16px로 설정합니다, 입력 필드 테두리 모서리를 5px로 설정합니다, 입력 필드 테두리를 1px 회색으로 설정합니다 */
+        height: 30px;
+        width: 93%;
+        padding: 5px 10px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 1px solid gray;
+}
+#user_type { /* 사용자 유형 선택 항목 높이를 40px로 설정합니다, 사용자 유형 선택 항목 너비를 98%로 설정합니다, 사용자 유형 선택 항목 패딩을 5px 10px로 설정합니다, 사용자 유형 선택 항목 배경색을 흰색으로 설정합니다, 사용자 유형 선택 항목 글꼴 크기를 16px로 설정합니다, 사용자 유형 선택 항목 테두리 모서리를 5px로 설정합니다, 사용자 유형 선택 항목 테두리를 1px 회색으로 설정합니다 */
+        height: 40px;
+        width: 98%;
+        padding: 5px 10px;
+        background: white;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 1px solid gray;
+}
+.btn { /* 버튼 패딩을 10px로 설정합니다, 버튼 글꼴 크기를 15px로 설정합니다, 버튼 텍스트 색상을 흰색으로 설정합니다, 버튼 배경색을 #5F9EA0으로 설정합니다, 버튼 테두리를 없앱니다, 버튼 테두리 모서리를 5px로 설정합니다 */
+        padding: 10px;
+        font-size: 15px;
+        color: white;
+        background: #5F9EA0;
+        border: none;
+        border-radius: 5px;
+}
+.error { /* 오류 메시지 너비를 92%로 설정합니다, 오류 메시지를 가운데 정렬합니다, 오류 메시지 패딩을 10px로 설정합니다, 오류 메시지 테두리를 1px #a94442로 설정합니다, 오류 메시지 텍스트 색상을 #a94442로 설정합니다, 오류 메시지 배경색을 #f2dede로 설정합니다, 오류 메시지 테두리 모서리를 5px로 설정합니다 */
+        width: 92%; 
+        margin: 0px auto; 
+        padding: 10px; 
+        border: 1px solid #a94442; 
+        color: #a94442; 
+        background: #f2dede; 
+        border-radius: 5px; 
+        text-align: left;
+}
+.success { /* 성공 메시지 텍스트 색상을 #3c763d로 설정합니다, 성공 메시지 배경색을 #dff0d8로 설정합니다 */
+        color: #3c763d; 
+        background: #dff0d8; 
+        border: 1px solid #3c763d;
+        margin-bottom: 20px;
+}
+.profile_info img { /* 정보 이미지에 대한 크기를 설정 합니다 */
+        display: inline-block; 
+        width: 50px; 
+        height: 50px; 
+        margin: 5px;
+        float: left;
+}
+.profile_info div { /* 프로필 정보에 대한 크기를 설정합니다 */
+        display: inline-block; 
+        margin: 5px;
+}
+.profile_info:after { /* 프로필 정보에 대한 기본정보를 설정합니다 */
+        content: "";
+        display: block;
+        clear: both;
+}
